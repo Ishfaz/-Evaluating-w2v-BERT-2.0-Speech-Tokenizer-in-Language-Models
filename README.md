@@ -5,11 +5,11 @@
 This project explores the integration of the W2v-BERT-2.0 tokenizer into existing speech-language models (SLMs) to enhance speech-to-speech translation capabilities. This approach aims to process speech directly, eliminating the need for converting speech to text first. Our focus is on leveraging the Conformer-based architecture of the W2v-BERT-2.0 tokenizer, extensively pre-trained on a multilingual corpus.
 
 ## Team
-
+- Ishfaq Bhat
 - Abubakar Aliyu Badawi
 - Celil Yilmaz
 - Tayyab Tahir
-- Eshfaz Bhat
+
 
 *Department of Seatech, University de Toulon, La Garde 83130, France*
 
