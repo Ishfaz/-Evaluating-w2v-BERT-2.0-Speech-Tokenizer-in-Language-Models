@@ -8,8 +8,6 @@ This project explores the integration of the W2v-BERT-2.0 tokenizer into existin
 - **Abubakar Aliyu Badawi**
 - **Celil Yilmaz**
 - **Tayyab Tahir**
-- 
-
 **Department of Seatech, University de Toulon, La Garde 83130, France**
 
 ## 3. Project Aim
