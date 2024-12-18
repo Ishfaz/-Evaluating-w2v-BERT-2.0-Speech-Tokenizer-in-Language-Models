@@ -89,8 +89,4 @@ While initial findings are encouraging, extended training periods and enhanced c
 
 ## References
 
-Detailed references are included for further reading and verification of the methodologies used.
-
----
-
-For more information, please contact [abubakar-aliyu-badawi](mailto:abubakar-aliyu-badawi@etud.univ-tln.com).
+Detailed references are included for further reading and verification of the methodologies.
